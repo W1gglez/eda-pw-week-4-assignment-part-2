@@ -1,10 +1,17 @@
 header {
     background-color: burlywood;
 }
-
+.info {
+    text-align: center;
+    align-self: center;
+    border: 1px solid black;
+    margin: auto;
+    width: 600px;
+}
 .info h2 {
     background-color: blanchedalmond;
     color: brown;
+    margin-top: 0px;
 }
 
 img {
@@ -14,4 +21,5 @@ img {
 h3 {
     background-color: beige;
     color: darkgoldenrod;
+    margin-bottom: 0px;
 }
