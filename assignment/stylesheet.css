@@ -1,3 +1,7 @@
+header {
+    background-color: burlywood;
+}
+
 .info h2 {
     background-color: blanchedalmond;
     color: brown;
@@ -5,4 +9,9 @@
 
 img {
     width:300px;
+}
+
+h3 {
+    background-color: beige;
+    color: darkgoldenrod;
 }
